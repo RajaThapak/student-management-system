@@ -36,7 +36,7 @@ function LoginPage() {
   return (
     <main className="auth-shell">
       <section className="hero-copy">
-        <p className="eyebrow">Student Management System</p>
+        <p className="eyebrow">StudentFlow</p>
         <h1>Run your student records like a pro.</h1>
         <p>
           Secure JWT authentication, fast student CRUD, and a clean dashboard in one place.

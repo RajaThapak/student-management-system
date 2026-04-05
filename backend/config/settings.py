@@ -1,4 +1,4 @@
-"""Django settings for Student Management System."""
+"""Django settings for StudentFlow."""
 
 import os
 from datetime import timedelta
